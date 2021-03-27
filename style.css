@@ -1,0 +1,29 @@
+body {
+    background: url(nyjah.jpg);
+    background-size: cover;
+    padding: 200px 450px;
+    color: white;
+    font-size: 100px;
+    font-family: arial;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  
+  #jam {
+    font-size: 4.5pc;
+    color: goldenrod;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  #tanggal {
+    font-size: 2pc;
+    color: goldenrod;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  #jam,
+  #tanggal {
+    text-shadow: 0 5px 5px #000000bb;
+    justify-content: center;
+  }
+  
